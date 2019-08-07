@@ -1,0 +1,5 @@
+meson (0.50.1) unstable; urgency=medium
+
+  * Initial packaging for Launchpad PPA  
+
+ -- Wook Song <wook16.song@samsung.com>  Wed, 07 Aug 2019 21:33:00 +0900

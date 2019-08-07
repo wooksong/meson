@@ -1,0 +1,6 @@
+
+tar-ignore = ".git"
+tar-ignore = ".gitattributes"
+tar-ignore = ".gitignore"
+tar-ignore = ".*.swp"
+
